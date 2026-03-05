@@ -13,6 +13,8 @@ Kanban board app with Google OAuth authentication, task management and Redux sta
 
 Kanban App is a task management board application with authentication. Users can register, log in via Google OAuth, and manage tasks on a kanban board. The project follows a Containers and Presentational Components architecture with clear separation of concerns.
 
+🔗 **Live:** [kanban-app](https://kanban-app-one-green.vercel.app/)
+
 ## Pages
 
 | Page | Description |
@@ -62,6 +64,7 @@ npm run build
 
 ## Authors
 
-Frontend developed by **Ihor Yanchuk** [Portfolio](https://github.com/Vergos1) · [GitHub](https://github.com/Vergos1)
+Frontend developed by **Ihor Yanchuk**
+[Portfolio](https://github.com/Vergos1) · [GitHub](https://github.com/Vergos1)
 
 Backend developed by **Vasyl Hrynchak**
