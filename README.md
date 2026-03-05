@@ -62,5 +62,6 @@ npm run build
 
 ## Authors
 
-Designed and developed by **Ihor Yanchuk** and **Vasyl Hrynchak**
-[Portfolio](https://github.com/Vergos1) · [GitHub](https://github.com/Vergos1)
+Frontend developed by **Ihor Yanchuk** [Portfolio](https://github.com/Vergos1) · [GitHub](https://github.com/Vergos1)
+
+Backend developed by **Vasyl Hrynchak**
